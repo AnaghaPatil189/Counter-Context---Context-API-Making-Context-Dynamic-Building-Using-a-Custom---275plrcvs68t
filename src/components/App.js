@@ -6,6 +6,7 @@ const App = () => {
 
   return (
     <CounterStateContext>
+    
       <div id="main">
         <CounterList />
       </div>
